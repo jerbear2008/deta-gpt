@@ -1,0 +1,4 @@
+flask
+flask_restful
+tflite_runtime==2.7.0 # old version of tensorflow lite due to outdated glibc on Deta
+tokenizers
